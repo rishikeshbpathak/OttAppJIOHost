@@ -28,9 +28,9 @@ npm start
 
 ## 🚀 Screenshot
 
-/screenshot-1.jpg
-/screenshot-2.jpg
-/screenshot-3.jpg
+<img src="public/screenshot-1.png" alt="Screenshot 1" width="100%"> <br/> 
+<img src="public/screenshot-2.png" alt="Screenshot 2" width="100%"> <br/> 
+<img src="public/screenshot-3.png" alt="Screenshot 3" width="100%">
 
 ---
 
